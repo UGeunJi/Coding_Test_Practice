@@ -1,6 +1,6 @@
 import math
 
-n,s  = map(int, input().split())
+n, s = map(int, input().split())
 
 arr = list(map(int, input().split()))
 
