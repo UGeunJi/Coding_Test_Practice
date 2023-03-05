@@ -4,4 +4,4 @@
 ### :punch: 백준은 알고리즘 문제 중심!
 <br>
 
-[0단계 문제풀이](https://github.com/UGeunJi/AI-bootcamp/tree/main/coding%20test%20Lv.0)
+### [프로그래머스 0단계 문제풀이](https://github.com/UGeunJi/AI-bootcamp/tree/main/coding%20test%20Lv.0)
