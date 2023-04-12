@@ -1,5 +1,6 @@
 # Solution 1
 # 재귀
+# 좌표 r, c가 2배가 되면 해당 배열값은 4배가 되는 규칙
 N, r, c = map(int, input().split())
 
 def sol(N, r, c):
@@ -16,6 +17,7 @@ print(sol(N, r, c))
 
 # Solution 2
 # 분할 정복
+# 2의 N승 X 2의 N승의 사각형에서 분할된 계산에 의한 사분면의 시작과 끝의 관계에 따른 규칙
 N, r, c = map(int, input().split())
 ans = 0
 
