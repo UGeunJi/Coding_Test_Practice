@@ -1,3 +1,4 @@
-## From Programmers
+## Programmers Coding Basic Training
 
-갑자기 이 많은 문제가 어디서 나온 건진 모르겠지만 심심할 때 풀어야겠다.
+
+![코딩테스트 입문 캘린더 (1)](https://user-images.githubusercontent.com/84713532/235297540-b3b70850-b5a3-4ad0-af3f-efda91ccc52f.png)
