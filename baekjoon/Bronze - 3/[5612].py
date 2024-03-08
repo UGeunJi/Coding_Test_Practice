@@ -1,11 +1,15 @@
-n = int(input()); m = int(input())
-max_p = 0
-for _ in range(n):
+import sys
+input = sys.stdin.readline
+
+n = int(input())
+tmp = []
+tmp.append(int(input()))
+for i in range(n):
     a, b = map(int, input().split())
-    m = m+a-b
-    if m < 0:
-        max_p = 0
-        break
-    if max_p < m:
-        max_p = m
-print(max_p)
+    tmp.append(tmp[i] + a - b)
+
+for i in range(n + 1):
+    if tmp[i] < 0:
+        print(0)
+        exit()
+print(max(tmp))
