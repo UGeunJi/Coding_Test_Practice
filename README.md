@@ -5,3 +5,5 @@
 <br>
 
 ### [프로그래머스 0단계 문제풀이](https://github.com/UGeunJi/AI-bootcamp/tree/main/coding%20test%20Lv.0)
+
+### [C++ 코테 연습](https://github.com/UGeunJi/CPP/tree/main/Coding_Test)
