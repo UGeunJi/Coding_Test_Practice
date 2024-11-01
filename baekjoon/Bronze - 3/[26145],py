@@ -1,0 +1,13 @@
+n, m = map(int, input().split())
+s = list(map(int, input().split()))
+
+r = s + [0] * m
+
+for i in range(n):
+    money = list(map(int, input().split()))
+    for j in range(n + m):
+        r[i] -= money[j]
+        r[j] += money[j]
+        
+for i in r:
+    print(i, end = " ")
