@@ -12,3 +12,5 @@ for i in range(n):
             print('Denominations:', *l_temp[1:])
             print('Bad coin denominations!')
             break
+    if i != n - 1:
+        print()
